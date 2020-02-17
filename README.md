@@ -29,8 +29,10 @@
     * [02 - 项目主要构造图](https://github.com/Jeffrey2971/Jeffrey/blob/master/md/Flask%20%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%E4%B8%BB%E8%A6%81%E5%AD%98%E6%94%BE%E8%AF%A6%E6%83%85.md)
     * [jinjia2模板](https://github.com/Jeffrey2971/Jeffrey/blob/master/md/Jinja2%E6%A8%A1%E6%9D%BF.md)
   * xmind思维构图
-    * [01](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_01.xmind)
-    * [02](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_02.xmind)
+    * [01 - xmind](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_01.xmind)
+      * [01 - pdf](https://github.com/Jeffrey2971/Jeffrey/blob/master/pdf/01.pdf)
+    * [02 - xmind](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_02.xmind)
+      * [02 - pdf]()https://github.com/Jeffrey2971/Jeffrey/blob/master/pdf/02.pdf
     
   
     
