@@ -11,7 +11,7 @@
 
 <div align=center><img width="250" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/mycode_1.jpg"/></div>
 
-<div align=right><img width="250" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/pay_zfb.jpg"/></div>
+<div align=right><img width="250" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/pay_wx.jpg"/></div>
 
 
 # 目录(点击可跳转)
