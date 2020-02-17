@@ -47,6 +47,7 @@
   * [微信多开（防封）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/wechats.cmd)
   * [文件加密（无限接近与0安全）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/Folder_enc)
   * [小键盘（已崩）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/keyboard)
+  * [邮件发送（已崩）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/email.cmd)
   
   
 * 其他
