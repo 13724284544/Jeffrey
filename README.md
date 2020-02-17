@@ -50,7 +50,7 @@
   <p id='pay'>
  
 * 其他
-   **任何时候，您都可以无条件退款，如需退款请联系我的微信<a href="#wechat">（顶部）</a>，或者邮箱：Jeffrey2971@outlook.com，并带上您的打赏记录。**
+   * **任何时候，您都可以无条件退款，如需退款请联系我的微信<a href="#wechat">（顶部）</a>，或者邮箱：Jeffrey2971@outlook.com，并带上您的打赏记录。**
   <div align=center><img src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/Pay.bmp"/></div>
 
 
