@@ -66,8 +66,6 @@ Parameters:
 	waste_time - 匹配平均时间
 Returns:
 	average_time - 代理ip平均耗时
-Modify:
-	2017-05-27
 """
 def check_ip(ip, lose_time, waste_time):
 	#命令 -n 要发送的回显请求数 -w 等待每次回复的超时时间(毫秒)
