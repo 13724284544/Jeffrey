@@ -59,3 +59,4 @@ if __name__ == '__main__':
     while True:
         mySocket.send(pyperclip.paste())
         mySocket.get()
+        
