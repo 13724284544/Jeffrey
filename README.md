@@ -7,7 +7,7 @@
   * 如果代码不可用则可能是对象网站进行了更改升级,作者不定期维护爬虫
   * 如有疑问或意见欢迎添加作者微信进行交流,觉得以下资料对您有用的话欢迎打赏,任何时候支持无条件退款
   
-<div align=center><img width="240" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/Pay.bmp"/></div>
+<div align=center><img width="75%" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/Pay.bmp"/></div>
 
 
 # 目录(点击可跳转)
