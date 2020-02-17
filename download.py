@@ -40,7 +40,7 @@ def downloader(url, path, filename):
         start = time.time()
         a_g = UserAgent()
         size = 0
-        chunk_size = 512
+        chunk_size = 1024
         content_tmp = 0
         time1 = time.time()
         response = requests.get(url=url, headers={"User-Agent": a_g.random}, stream=True)
