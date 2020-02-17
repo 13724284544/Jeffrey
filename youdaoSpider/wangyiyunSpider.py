@@ -235,3 +235,4 @@ if __name__ == '__main__':
 			netease.download_song_by_search(song_name,song_num + 1)
 	else:
 		click.echo('music_list.txt not exist.')
+		
