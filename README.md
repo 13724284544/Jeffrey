@@ -5,7 +5,7 @@
   * 文章在自己的个人网站首发，如有其他平台文章均属转发，如想获得最新更新进展，欢迎Follow：
   * https://github.com/Jeffrey2971/Jeffrey/
   * 如果代码不可用则可能是对象网站进行了更改升级,作者不定期维护爬虫
-  * 如有疑问或意见欢迎添加作者微信进行交流,觉得以下资料对您有用的话欢迎打赏（底部）,任何时候支持无条件退款
+  * 如有疑问或意见欢迎添加作者微信进行交流,觉得以下资料对您有用的话欢迎打赏（底部）
   
 <div align=center><img width="25%" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/mycode_1.jpg"/></div>
 
@@ -47,7 +47,7 @@
   
   
 * 其他
-  * [作者微信]<div align=center><img width="300" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/Pay.bmp"/></div>
-    * 如二维码失效可添加 微信号：Jeffrey2971 或邮箱：Jeffrey2971@outlook.com
+  * <div align=center><img src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/Pay.bmp"/></div>
+    * 任何时候，您都可以无条件退款，请联系我的微信（顶部），或者邮箱：Jeffrey2971@outlook.com，并带上您的打赏记录。
 
 
