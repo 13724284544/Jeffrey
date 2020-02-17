@@ -32,7 +32,7 @@
     * [01 - xmind](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_01.xmind)
       * [01 - pdf](https://github.com/Jeffrey2971/Jeffrey/blob/master/pdf/01.pdf)
     * [02 - xmind](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_02.xmind)
-      * [02 - pdf]()https://github.com/Jeffrey2971/Jeffrey/blob/master/pdf/02.pdf
+      * [02 - pdf](https://github.com/Jeffrey2971/Jeffrey/blob/master/pdf/02.pdf)
     
   
     
