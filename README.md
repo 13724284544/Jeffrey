@@ -25,8 +25,10 @@
   * [有道翻译](https://github.com/Jeffrey2971/Jeffrey/blob/master/youdaoSpider.py)
 * 批处理实用小脚本
   * [全盘文件查找](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/find.cmd)
+  * [微信多开（防封）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/wechats.cmd)
+  * [文件加密（无限接近与0安全）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/Folder_enc)
   * [小键盘（已崩）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/keyboard)
-  * [微信多开](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/wechats.cmd)
+  
   
 * 其他
   * [SB]<div align=center><img width="250" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/pig.jpg"/></div>
