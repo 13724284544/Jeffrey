@@ -88,3 +88,4 @@ if __name__ == '__main__':
     print('需翻译内容：' + _to + '\n翻译结果为：' + result[0])
 
     _out()
+    
