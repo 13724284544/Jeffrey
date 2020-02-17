@@ -23,5 +23,5 @@
   * [百度贴吧主题图片下载](https://github.com/Jeffrey2971/Jeffrey/blob/master/tiebaSpider.py)
   * [有道翻译](https://github.com/Jeffrey2971/Jeffrey/blob/master/youdaoSpider.py)
 * 其他
-  * [SB](https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/pig.jpg)
+  * [SB]<div align=center><img width="250" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/pig.jpg"/></div>
 
