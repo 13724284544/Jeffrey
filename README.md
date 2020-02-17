@@ -1,2 +1,2 @@
 # About PythonSpider
-![image](https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/mycode.jpg)
+<div align=center>![image](https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/mycode_1.jpg)
