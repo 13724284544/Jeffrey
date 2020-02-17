@@ -47,5 +47,7 @@
   
   
 * 其他
-  * [SB]<div align=center><img width="300" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/mycode_1.jpg"/></div>
+  * [作者微信]<div align=center><img width="300" src="https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/mycode_1.jpg"/></div>
+    * 如二维码失效可添加 微信号：Jeffrey2971 Email：Jeffrey2971@outlook.com
+  
 
