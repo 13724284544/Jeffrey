@@ -23,6 +23,17 @@
   * [多线程爬取theme.com所有主题](https://github.com/Jeffrey2971/Jeffrey/blob/master/theme.py)
   * [百度贴吧主题图片下载](https://github.com/Jeffrey2971/Jeffrey/blob/master/tiebaSpider.py)
   * [有道翻译](https://github.com/Jeffrey2971/Jeffrey/blob/master/youdaoSpider.py)
+* Flask网络框架
+  * md笔记
+    * [01 - Flask笔记](https://github.com/Jeffrey2971/Jeffrey/blob/master/md/Flask%E7%AC%94%E8%AE%B0.md)
+    * [02 - 项目主要构造图](https://github.com/Jeffrey2971/Jeffrey/blob/master/md/Flask%20%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%E4%B8%BB%E8%A6%81%E5%AD%98%E6%94%BE%E8%AF%A6%E6%83%85.md)
+    * [jinjia2模板](https://github.com/Jeffrey2971/Jeffrey/blob/master/md/Jinja2%E6%A8%A1%E6%9D%BF.md)
+  * xmind思维构图
+    * [01](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_01.xmind)
+    * [02](https://github.com/Jeffrey2971/Jeffrey/blob/master/xmind/Flask_note_02.xmind)
+    
+  
+    
 * 批处理实用小脚本
   * [全盘文件查找](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/find.cmd)
   * [微信多开（防封）](https://github.com/Jeffrey2971/Jeffrey/blob/master/bat/wechats.cmd)
