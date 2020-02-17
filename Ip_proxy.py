@@ -19,8 +19,6 @@ Parameters:
 	page - 高匿代理页数,默认获取第一页
 Returns:
 	proxys_list - 代理列表
-Modify:
-	2017-05-27
 """
 def get_proxys(page = 1):
 	#requests的Session可以自动保持cookie,不需要自己维护cookie内容
@@ -105,8 +103,6 @@ Parameters:
 Returns:
 	lose_time - 匹配丢包数
 	waste_time - 匹配平均时间
-Modify:
-	2017-05-27
 """
 def initpattern():
 	#匹配丢包数
