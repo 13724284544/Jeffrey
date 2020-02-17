@@ -22,4 +22,6 @@
   * [多线程爬取theme.com所有主题](https://github.com/Jeffrey2971/Jeffrey/blob/master/theme.py)
   * [百度贴吧主题图片下载](https://github.com/Jeffrey2971/Jeffrey/blob/master/tiebaSpider.py)
   * [有道翻译](https://github.com/Jeffrey2971/Jeffrey/blob/master/youdaoSpider.py)
+* 其他
+  * [SB](https://github.com/Jeffrey2971/Jeffrey/blob/master/readme/pig.jpg)
 
